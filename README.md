@@ -1,1 +1,1 @@
-All the documents related to the project CIS 5200 are placed here
+All the technical documents are placed here
